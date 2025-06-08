@@ -1,0 +1,6 @@
+.*
+*.cmd
+*.syscfg
+device/*
+targetConfigs/*
+CPU1_RAM/*
